@@ -1,6 +1,6 @@
 # 医学統計学講義資料（２年前期）
 
-[1導入][https://hagaakihiro.github.io/MedicalStatistics/1導入.pdf]
+[1導入][[https://hagaakihiro.github.io/MedicalStatistics/1導入.pdf](https://github.com/hagaakihiro/MedicalStatistics/blob/main/1%E5%B0%8E%E5%85%A5.pdf)]
 
 [2データの整理][https://hagaakihiro.github.io/MedicaStatistics/2データの整理.pdf]
 
